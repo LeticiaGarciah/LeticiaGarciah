@@ -1,6 +1,5 @@
-### Oi! Sou Letícia Garcia  👋
+Oi! Sou Letícia Garcia  👋
 
-Here are some ideas to get you started:
 
 - 🔭 Sou uma desenvolvedora front-end
 - 😄 Pronouns: ela/dela
